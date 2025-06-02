@@ -13,8 +13,8 @@ A simple and interactive **dictionary web app** built using **HTML, CSS, and Jav
 
 
 
-
-[## 📸 Screenshots](./screenshot/dict.png)
+[# Screenshot]
+(./screenshot/dict.png)
 
                                                             
                                                                                                                             
