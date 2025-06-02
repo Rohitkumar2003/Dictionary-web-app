@@ -13,7 +13,9 @@ A simple and interactive **dictionary web app** built using **HTML, CSS, and Jav
 
 
 
-[# Screenshot .screenshot/dict.png]
+[# Screenshot ./screenshot/dict.png]
 
-                                                            
+
+                                                     
+                                                                                                                            
                                                                                                                             
