@@ -11,7 +11,10 @@ A simple and interactive **dictionary web app** built using **HTML, CSS, and Jav
 - 🤔 **"Did you mean?" Suggestions** – In case the word doesn't exist, the app provides similar word suggestions.
 - 🌐 **API Integrated** – Fetches real-time data from an external dictionary API.
 
-## 📸 Screenshots
-(./screenshot/dict.png)
+
+
+
+[## 📸 Screenshots](./screenshot/dict.png)
+
                                                             
                                                                                                                             
