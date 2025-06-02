@@ -12,9 +12,9 @@ A simple and interactive **dictionary web app** built using **HTML, CSS, and Jav
 - 🌐 **API Integrated** – Fetches real-time data from an external dictionary API.
 
 
+## 📸 Screenshot
 
-[# Screenshot ./screenshot/dict.png]
-
+![Search Example](./screenshot/dict.png)
 
                                                      
                                                                                                                             
